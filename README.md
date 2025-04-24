@@ -26,3 +26,12 @@ Security:     SIEM (LogPoint), Nessus, WireShark, Group Policy, EDR, 2FA, AppLoc
 Networking:   UniFi (Dream Machine Pro, VLANs, PoE Switches), VyOS, pfSense, DNS, NAT, DHCP
 Homelab:      Multi-AP UniFi deployments, DDNS setup, HTTPS web services, port forwarding
 Platforms:    Windows Server Core, Ubuntu, Rocky Linux, Kali, Xubuntu, Arch Linux
+```
+
+🌐 Socials & Services
+
+    🧠 Portfolio/Hub: ashtoncs.com
+
+    📫 Email: markheadley87@gmail.com
+
+    📁 GitHub Projects: Check out my repos
