@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to AshtonCS</h1>
+<h1 align="center">👋 Welcome to my Github</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Cybersecurity-red?style=flat-square" />
